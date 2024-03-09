@@ -1,0 +1,35 @@
+﻿  pch.cpp
+  dllmain.cpp
+  SeetaFaceDotnet.cpp
+D:\SeetaFaceDotNet\SeetaFace\SeetaFaceDotnet.cpp(117,23): warning C4129: “{”: 不可识别的字符转义序列
+D:\SeetaFaceDotNet\SeetaFace\SeetaFaceDotnet.cpp(117,23): warning C4129: “:”: 不可识别的字符转义序列
+D:\SeetaFaceDotNet\SeetaFace\SeetaFaceDotnet.cpp(117,23): warning C4129: “[”: 不可识别的字符转义序列
+D:\SeetaFaceDotNet\SeetaFace\SeetaFaceDotnet.cpp(120,13): warning C4129: “{”: 不可识别的字符转义序列
+D:\SeetaFaceDotNet\SeetaFace\SeetaFaceDotnet.cpp(120,13): warning C4129: “:”: 不可识别的字符转义序列
+D:\SeetaFaceDotNet\SeetaFace\SeetaFaceDotnet.cpp(120,13): warning C4129: “[”: 不可识别的字符转义序列
+D:\SeetaFaceDotNet\SeetaFace\SeetaFaceDotnet.cpp(126,54): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\SeetaFaceDotNet\SeetaFace\SeetaFaceDotnet.cpp(127,54): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\SeetaFaceDotNet\SeetaFace\SeetaFaceDotnet.cpp(130,13): warning C4129: “]”: 不可识别的字符转义序列
+D:\SeetaFaceDotNet\SeetaFace\SeetaFaceDotnet.cpp(130,13): warning C4129: “}”: 不可识别的字符转义序列
+D:\SeetaFaceDotNet\SeetaFace\SeetaFaceDotnet.cpp(130,13): warning C4129: “,”: 不可识别的字符转义序列
+D:\SeetaFaceDotNet\SeetaFace\SeetaFaceDotnet.cpp(133,12): warning C4129: “]”: 不可识别的字符转义序列
+D:\SeetaFaceDotNet\SeetaFace\SeetaFaceDotnet.cpp(133,12): warning C4129: “}”: 不可识别的字符转义序列
+D:\SeetaFaceDotNet\SeetaFace\SeetaFaceDotnet.cpp(143,23): warning C4129: “{”: 不可识别的字符转义序列
+D:\SeetaFaceDotNet\SeetaFace\SeetaFaceDotnet.cpp(143,23): warning C4129: “:”: 不可识别的字符转义序列
+D:\SeetaFaceDotNet\SeetaFace\SeetaFaceDotnet.cpp(143,23): warning C4129: “[”: 不可识别的字符转义序列
+D:\SeetaFaceDotNet\SeetaFace\SeetaFaceDotnet.cpp(146,13): warning C4129: “{”: 不可识别的字符转义序列
+D:\SeetaFaceDotNet\SeetaFace\SeetaFaceDotnet.cpp(146,13): warning C4129: “:”: 不可识别的字符转义序列
+D:\SeetaFaceDotNet\SeetaFace\SeetaFaceDotnet.cpp(146,13): warning C4129: “[”: 不可识别的字符转义序列
+D:\SeetaFaceDotNet\SeetaFace\SeetaFaceDotnet.cpp(152,54): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\SeetaFaceDotNet\SeetaFace\SeetaFaceDotnet.cpp(153,54): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\SeetaFaceDotNet\SeetaFace\SeetaFaceDotnet.cpp(156,13): warning C4129: “]”: 不可识别的字符转义序列
+D:\SeetaFaceDotNet\SeetaFace\SeetaFaceDotnet.cpp(156,13): warning C4129: “}”: 不可识别的字符转义序列
+D:\SeetaFaceDotNet\SeetaFace\SeetaFaceDotnet.cpp(156,13): warning C4129: “,”: 不可识别的字符转义序列
+D:\SeetaFaceDotNet\SeetaFace\SeetaFaceDotnet.cpp(159,12): warning C4129: “]”: 不可识别的字符转义序列
+D:\SeetaFaceDotNet\SeetaFace\SeetaFaceDotnet.cpp(159,12): warning C4129: “}”: 不可识别的字符转义序列
+D:\SeetaFaceDotNet\SeetaFace\SeetaFaceDotnet.cpp(195,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\SeetaFaceDotNet\SeetaFace\SeetaFaceDotnet.cpp(196,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码...
+D:\SeetaFaceDotNet\SeetaFace\SeetaFaceDotnet.cpp(232): warning C4715: “FaceAntiSpoofing”: 不是所有的控件路径都返回值
+    正在创建库 D:\SeetaFaceDotNet\Debug\SeetaFace.lib 和对象 D:\SeetaFaceDotNet\Debug\SeetaFace.exp
+  SeetaFace.vcxproj -> D:\SeetaFaceDotNet\Debug\SeetaFace.dll
